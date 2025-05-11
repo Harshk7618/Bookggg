@@ -408,7 +408,7 @@ def welcome_plan(message):
 Vip 🌟 :
 -> Attack Time : 1500 (S)
 > After Attack Limit : 10 sec
--> Concurrents Attack : 5
+-> Concurrents Attack : 15
 
 Pr-ice List💸 :
 Day-->150 Rs
